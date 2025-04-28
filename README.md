@@ -1,2 +1,2 @@
-# Portfolio_13-07-24
-Create a stunning and responsive personal portfolio website using HTML, CSS, and JavaScript!
+# Mary_Hardy_07-12-24
+Learn how to create a Complete Responsive Personal Portfolio Website from scratch using HTML, CSS, and JavaScript!
